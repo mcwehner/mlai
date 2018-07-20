@@ -1,4 +1,6 @@
+bleach
 jupyter
+markdown
 matplotlib
 nltk
 numpy
